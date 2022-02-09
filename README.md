@@ -1,4 +1,4 @@
-# HTML Scientific Paper
+<!-- # HTML Scientific Paper
 Welcome to the first exercise of the HTML series. In this exercise we are going to use the HTML elements you've learned about this morning to replicate the below web page:
 
 ![Scientific Paper](images/scientific-paper.png)
@@ -26,4 +26,4 @@ Welcome to the first exercise of the HTML series. In this exercise we are going 
 
 ## Challenges
 - Create a second page and link to it
-- Use five elements not listed above! Use the MDN resource above to find new elements you've not yet used.
+- Use five elements not listed above! Use the MDN resource above to find new elements you've not yet used. -->
